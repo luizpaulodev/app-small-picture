@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="interstial_ad_unit_id">ca-app-pub-2167493564469787/6369516555</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2167493564469787/1916284152</string>
+
+    <string name="app_name">Small Picture</string>
+    <string name="galeria">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="reduzir_l">Reducir:</string>
+    <string name="qualidade_l">Cualidad:</string>
+    <string name="formato_l">Formato:</string>
+    <string name="selecione_fotos">Selecciona una o más fotos!</string>
+    <string name="compartilhar_com">Compartir imágenes con..</string>
+    <string name="configuracoes_saida">Ajustes de salida</string>
+    <string name="salvar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="reduzindo_imagens">Reducción del tamaño de la imagen...</string>
+    <string name="quantidade_fotos_selecao">%1$d  Seleccionado</string>
+    <string name="buscando_imagens">Búsqueda de imágenes seleccionadas...</string>
+    <string name="erro_memoria">Error al ejecutar la acción! Seleccione una tasa de reducción más alta!</string>
+    <string name="fotos_reduzidas">Las fotos se han reducido!</string>
+
+    <string name="imagem">Imagen %1$d</string>
+    <string name="menu_reduzir_imagens">Reducir las imágenes</string>
+    <string name="menu_configuracoes_imagens">Ajustes</string>
+    <string name="menu_remover_anuncios">Quitar anuncios</string>
+    <string name="menu_compartilhar">Compartir</string>
+    <string name="menu_remover_lista">Limpiar</string>
+    <string name="menu_avaliar_app">Calificar aplicacion</string>
+    <string name="reduzir">Reducir</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="teal">#607D8B</color>
+    <color name="teal_pressed">#455A64</color>
+
+    <color name="indigo">#00BCD4</color>
+    <color name="indigo_pressed">#0097A7</color>
+
+</resources>

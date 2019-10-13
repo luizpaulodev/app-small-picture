@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="imagem"
+            type="br.com.sm.smallpicture.Imagens"/>
+    </data>
+
+    <FrameLayout
+        android:id="@+id/activity_abrir_imagem"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="br.com.sm.smallpicture.AbrirImagemActivity">
+
+        <com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView
+            android:id="@+id/imgAbrirFoto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000"/>
+
+        <android.support.v7.widget.Toolbar
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/def_toolbar"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_width="match_parent"
+            android:minHeight="?attr/actionBarSize"
+            android:background="#00FFFF00"
+            app:theme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    </FrameLayout>
+
+</layout>
+
+

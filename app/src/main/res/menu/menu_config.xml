@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuReduzir"
+        android:title="@string/menu_reduzir_imagens"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_photo_size_select_large_white_24dp"/>
+
+    <item android:id="@+id/menuRemoverAnuncios"
+        android:title="@string/menu_remover_anuncios"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menuAvaliar"
+        android:title="@string/menu_avaliar_app"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menuOutrosApp"
+        android:title="Outros App's"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menuRemover"
+        android:title="@string/menu_remover_lista"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_clear_white_24dp"/>
+
+    <item android:id="@+id/menuCompartilhar"
+        android:title="Compartilhar"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_share_white_24dp"/>
+</menu>

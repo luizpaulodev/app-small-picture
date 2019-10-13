@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="interstial_ad_unit_id">ca-app-pub-2167493564469787/6369516555</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2167493564469787/1916284152</string>
+
+    <string name="app_name">Small Picture</string>
+    <string name="galeria">Galeria</string>
+    <string name="camera">Câmera</string>
+    <string name="reduzir_l">Reduzir:</string>
+    <string name="qualidade_l">Qualidade:</string>
+    <string name="formato_l">Formato:</string>
+    <string name="selecione_fotos">Selecione uma ou mais fotos!</string>
+    <string name="compartilhar_com">Compartilhar com...</string>
+    <string name="configuracoes_saida">Configurações de saída</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="reduzindo_imagens">Reduzindo o tamanho das imagens...</string>
+    <string name="quantidade_fotos_selecao">%1$d  Selecionado(s)</string>
+    <string name="buscando_imagens">Buscando imagens selecionadas...</string>
+    <string name="erro_memoria">Erro ao executar ação! Selecione uma taxa de redução maior!</string>
+    <string name="fotos_reduzidas">As imagens foram reduzidas!</string>
+
+    <string name="imagem">Imagem %1$d</string>
+    <string name="menu_reduzir_imagens">Reduzir imagens</string>
+    <string name="menu_configuracoes_imagens">Configurações</string>
+    <string name="menu_remover_anuncios">Remover anúncios</string>
+    <string name="menu_compartilhar">Compartilhar</string>
+    <string name="menu_remover_lista">Remover</string>
+    <string name="menu_avaliar_app">Avaliar App</string>
+    <string name="reduzir">Reduzir</string>
+</resources>
